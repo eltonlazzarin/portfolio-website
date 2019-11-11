@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/website-portfolio-reactjs/static/js/main.1bfed40e.chunk.js",
+    "main.js.map": "/website-portfolio-reactjs/static/js/main.1bfed40e.chunk.js.map",
+    "runtime-main.js": "/website-portfolio-reactjs/static/js/runtime-main.ea69b6db.js",
+    "runtime-main.js.map": "/website-portfolio-reactjs/static/js/runtime-main.ea69b6db.js.map",
+    "static/js/2.3f5297eb.chunk.js": "/website-portfolio-reactjs/static/js/2.3f5297eb.chunk.js",
+    "static/js/2.3f5297eb.chunk.js.map": "/website-portfolio-reactjs/static/js/2.3f5297eb.chunk.js.map",
+    "index.html": "/website-portfolio-reactjs/index.html",
+    "precache-manifest.e53dc0a46e49c647974a38dc1f82663a.js": "/website-portfolio-reactjs/precache-manifest.e53dc0a46e49c647974a38dc1f82663a.js",
+    "service-worker.js": "/website-portfolio-reactjs/service-worker.js",
+    "static/media/aircnc.png": "/website-portfolio-reactjs/static/media/aircnc.ccd1fcbd.png",
+    "static/media/coder.svg": "/website-portfolio-reactjs/static/media/coder.f64b56b4.svg",
+    "static/media/designer.svg": "/website-portfolio-reactjs/static/media/designer.d655542d.svg",
+    "static/media/email.svg": "/website-portfolio-reactjs/static/media/email.6ccaefa9.svg",
+    "static/media/github.svg": "/website-portfolio-reactjs/static/media/github.d598c7d7.svg",
+    "static/media/gobarber.png": "/website-portfolio-reactjs/static/media/gobarber.5fd896e7.png",
+    "static/media/knowledges.png": "/website-portfolio-reactjs/static/media/knowledges.fcc20f95.png",
+    "static/media/linkedin.svg": "/website-portfolio-reactjs/static/media/linkedin.8e0fb332.svg",
+    "static/media/logo.svg": "/website-portfolio-reactjs/static/media/logo.4a8e3ea0.svg",
+    "static/media/website.png": "/website-portfolio-reactjs/static/media/website.73bb3b8b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea69b6db.js",
+    "static/js/2.3f5297eb.chunk.js",
+    "static/js/main.1bfed40e.chunk.js"
+  ]
+}
